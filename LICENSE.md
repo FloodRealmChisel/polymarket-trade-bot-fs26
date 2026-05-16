@@ -1,4 +1,4 @@
-# 
+# automatic Polymarket Tool | trailing-stops + market-making offers the most advanced Polymarket tool, with trailing-stops and market-making. Ideal for professional traders and
 
 
 
